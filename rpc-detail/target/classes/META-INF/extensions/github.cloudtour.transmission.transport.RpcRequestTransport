@@ -1,0 +1,1 @@
+netty=github.cloudtour.transmission.transport.netty.client.NettyRpcClient

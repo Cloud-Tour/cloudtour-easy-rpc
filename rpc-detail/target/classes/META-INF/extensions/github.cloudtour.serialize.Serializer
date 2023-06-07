@@ -1,0 +1,3 @@
+kyro=github.cloudtour.serialize.kyro.KryoSerializer
+protostuff=github.cloudtour.serialize.protostuff.ProtostuffSerializer
+hessian=github.cloudtour.serialize.hessian.HessianSerializer

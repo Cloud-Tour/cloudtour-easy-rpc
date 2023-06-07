@@ -1,0 +1,2 @@
+consistentHash=github.cloudtour.balance.loadbalancer.ConsistentHashLoadBalance
+random=github.cloudtour.balance.loadbalancer.RandomLoadBalance
